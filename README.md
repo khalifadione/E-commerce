@@ -6,20 +6,20 @@ Ce projet est un site web basé sur une seule page et qui permet de     lister de
  
 ## Installation
 ```
-Une fois le projet cloner via ce lien « hh » github, vous ouvrez votre terminal et rendez-vous dans le dossier du projet puis tapez la ligne de commande suivant : « npm install »
-Laisser du temps à votre ordinateur afin qu’il installe tous npm avec les packages nécessaires.
+Une fois le projet cloner, vous ouvrez votre terminal et rendez-vous dans le dossier du projet puis tapez la ligne de commande suivant : « npm install »
+Laisser du temps à votre ordinateur afin qu’il installe tous les modules npm avec les packages nécessaires.
 ```
 
 
 ### Compilation et Exécution du projet
 ```
 Pour compiler assurez-vous d’avoir déjà terminer l’étape de l’installation, ensuite toujours dans le dossier du projet taper dans votre terminal la ligne de commande suivante : « npm run serve »
-Pour compiler le projet en locale ; votre ordinateur se chargera de vous ouvrir un port de connexion sur localhost et vous verrez sur votre terminal une :
+Pour compiler le projet en locale ; votre ordinateur se chargera de vous ouvrir un port de connexion sur localhost et vous verrez sur votre terminal quelle que chose comme:
    App running at:
   - Local:   http://localhost:.../
   - Network: http://192.168.1.91:.../ 
 A la place des trois points des liens précédents vous aurez le numéro de port attribué par votre ordinateur
-Copier le premier le lien ensuite ouvrer un onglet dans votre navigateur web et collez-y le lien puis appuyez sur la touche « entrée » la page web apparaitra avec tous son contenu
+Copier un des liens ensuite ouvrer un onglet dans votre navigateur web et collez-y ce dernier puis appuyez sur la touche « entrée » la page web apparaitra avec tous son contenu
 
 ```
 
@@ -30,7 +30,7 @@ Copier le premier le lien ensuite ouvrer un onglet dans votre navigateur web et 
 Source externe, un lien pour la police « Roboto » de google Fronts, qui est utilisé pour styliser le texte de page ;
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css"> :
-Source externe, une vers la bibliothèque d’icônes « Material Design Icons » de Google, qui est utilisé pour afficher des icônes sur la page
+Source externe, un lien vers la bibliothèque d’icônes « Material Design Icons » de Google, qui est utilisé pour afficher des icônes sur la page
 ```
 
 
